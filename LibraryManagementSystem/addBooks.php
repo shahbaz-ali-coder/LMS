@@ -58,6 +58,7 @@ if($bn!=NULL && $au!=NULL)
 <br />
 <br />
 <a href="adminhome.php" class="link">Go Back</a>
+<!-- Here this file i attached for the the admin home -->	
 <br />
 <br />
 
